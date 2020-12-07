@@ -1,5 +1,7 @@
-.container{
+body{
     background-image: url(/images/nikita-kachanovsky-OVbeSXRk_9E-unsplash.jpg);
     background-size: cover;
     background-repeat: no-repeat;
+    background-position: 100% 100%;
+    min-height: 100vh;
 }
